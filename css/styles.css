@@ -3,6 +3,8 @@
 
 body {
     font-family: 'Boska-Black';
+    color: #120a1f;
+    text-align: center;
     display: grid;
     justify-content: center;
     align-content: center;
@@ -10,7 +12,10 @@ body {
     background-color: #fff9ec;
 }
 
-img{
-    height: 50vh;
+.pro-pic{
+    height: 70vh;
 }
 
+.logo{
+    height: 15em;
+}
